@@ -9,5 +9,5 @@ Am 9. Juni 1934 erschien Die kluge kleine Henne (The Wise Little Hen), der erste
 * trinkfest
 * ewiger looser
 Zitat von Donal Duck:
-< Ich bin ein Gewinner
-< und werde irgandwann reich sein.
+> Ich bin ein Gewinner
+> und werde irgandwann reich sein.
