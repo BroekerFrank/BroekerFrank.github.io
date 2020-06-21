@@ -11,3 +11,6 @@ Am 9. Juni 1934 erschien Die kluge kleine Henne (The Wise Little Hen), der erste
 Zitat von Donal Duck:
 > Ich bin ein Gewinner
 > und werde irgandwann reich sein.
+
+<img src="https://de.wikipedia.org/wiki/Donald_Duck#/media/Datei:DonaldDuck.jpg"/>
+
