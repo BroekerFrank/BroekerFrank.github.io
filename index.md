@@ -8,4 +8,6 @@ Am 9. Juni 1934 erschien Die kluge kleine Henne (The Wise Little Hen), der erste
 * Kommt aus Entenhausen
 * trinkfest
 * ewiger looser
-
+Zitat von Donal Duck:
+> Ich bin ein Gewinner
+> und werde irgandwann reich sein.
